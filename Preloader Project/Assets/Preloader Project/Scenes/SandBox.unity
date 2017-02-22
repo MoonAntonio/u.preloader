@@ -420,7 +420,7 @@ MonoBehaviour:
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
-  mText: "Image :\r Copyright \xA9\u30CA\u30C0\u30EC\r [http://www.pixiv.net/member.php?id=2243289]\n"
+  mText: "Imagen :\r Copyright \xA9\u30CA\u30C0\u30EC\r [http://www.pixiv.net/member.php?id=2243289]\n"
   mFontSize: 44
   mFontStyle: 1
   mAlignment: 0
@@ -662,7 +662,7 @@ MonoBehaviour:
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 1.7351713
+  aspectRatio: 1.7698363
   mType: 1
   mFillDirection: 4
   mFillAmount: 1
@@ -793,6 +793,47 @@ Transform:
   - {fileID: 1802946006}
   m_Father: {fileID: 0}
   m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1120546260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1120546262}
+  - component: {fileID: 1120546261}
+  m_Layer: 0
+  m_Name: Preloader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1120546261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1120546260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15ccd94fd877ef04c9a0833c8b26d569, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fade: {fileID: 0}
+--- !u!4 &1120546262
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1120546260}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1242229668
 GameObject:
@@ -928,7 +969,7 @@ MonoBehaviour:
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 1.7351713
+  aspectRatio: 1.7698363
   mType: 1
   mFillDirection: 4
   mFillAmount: 1
@@ -1269,7 +1310,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Image :\r Copyright \xA9\u30CA\u30C0\u30EC\r [http://www.pixiv.net/member.php?id=2243289]\n"
+  m_Text: "Imagen :\r Copyright \xA9\u30CA\u30C0\u30EC\r [http://www.pixiv.net/member.php?id=2243289]\n"
 --- !u!222 &1990515628
 CanvasRenderer:
   m_ObjectHideFlags: 0
