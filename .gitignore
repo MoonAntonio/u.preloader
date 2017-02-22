@@ -53,8 +53,8 @@ $RECYCLE.BIN/
 Assets/_Content/GUI
  
 # COPYRIGHTED / ASSET STORE
-/Assets/ThirdParty
-/Assets/ThirdParty.meta
+Preloader Project/Assets/ThirdParty/*
+Preloader Project/Assets/ThirdParty.meta
  
 # GITEYE
 *.project
