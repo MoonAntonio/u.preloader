@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/lPinchol/u.preloader.svg)](https://github.com/lPinchol/u.preloader/issues)
+[![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/u.preloader.svg)](https://github.com/MoonAntonio/u.preloader/issues)
 
 # Unity Preloader
 ---
