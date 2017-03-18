@@ -1,12 +1,15 @@
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/u.preloader.svg)](https://github.com/MoonAntonio/u.preloader/issues)
+[![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
+[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MIcaros)
+[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/u.preloader/master/LICENSE)
 
 # Unity Preloader
 ---
 Escena de preloader en Unity3D con varios ejemplos. Se puede usar plugins como NGUI o si lo prefieres el mismo UGUI.
 
-Esta version esta probada para **Unity3D 5.5.1p4**.
+Esta version esta probada para **Unity3D 5.5.2p2**.
 
-![001](https://github.com/lPinchol/u.preloader/blob/master/Res/003.gif)
+<p align="center"><img src="https://github.com/MoonAntonio/u.preloader/blob/master/Res/003.gif?raw=true"></p>
 
 ---
 
@@ -22,11 +25,11 @@ Solo tienes que entrar a la escena de ejemplo(SandBox) y reproducir.
 
 2. En la definicion de simbolos (Scripting Define Symbols), hay que definirle NGUI para que reconozca que tienes NGUI en tu proyecto.
 
-![001](https://github.com/lPinchol/u.preloader/blob/master/Res/001.png)
+<p align="center"><img src="https://github.com/lPinchol/u.preloader/blob/master/Res/001.png"></p>
 
 3. Por ultimo solo tienes que desactivar el Canvas y activar el RootUI.
 
-![001](https://github.com/lPinchol/u.preloader/blob/master/Res/002.png)
+<p align="center"><img src="https://github.com/lPinchol/u.preloader/blob/master/Res/002.png"></p>
 
 ---
 
