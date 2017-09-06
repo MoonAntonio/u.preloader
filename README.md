@@ -9,7 +9,7 @@
 ---
 Escena de preloader en Unity3D con varios ejemplos. Se puede usar plugins como NGUI o si lo prefieres el mismo UGUI.
 
-Esta version esta probada para **Unity3D 5.5.2p2**.
+Esta version esta probada para **Unity3D 5.5.2p2** en adelante.
 
 <p align="center"><img src="https://github.com/MoonAntonio/u.preloader/blob/master/Res/003.gif?raw=true"></p>
 
